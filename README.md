@@ -28,6 +28,6 @@ Mecwintech is a backend employee management system built using the PHP MVC frame
 
 ## Screenshots
 
-![Employee](https://github.com/ravirajladha/main/docs/images/employees.png)
+![Employee](https://raw.githubusercontent.com/ravirajladha/mecwintech/main/docs/images/employees.png)
 *Main dashboard for managing employees and reports.*
 
