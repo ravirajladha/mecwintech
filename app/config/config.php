@@ -3,13 +3,13 @@
   define('DB_HOST', 'localhost');
   define('DB_USER', 'root');
   define('DB_PASS', '');
-  define('DB_NAME', 'mecwintech');
+  define('DB_NAME', 'mecwin');
   // App Root
   define('APPROOT', dirname(dirname(__FILE__)));
   // URL Root
   define('URLROOT', 'http://localhost/mecwintech');
   // Site Name
-  define('URLROOT1', 'Mecwin');
+  define('URLROOT1', 'Mecwintech');
   date_default_timezone_set('Asia/Kolkata');
   
 ?>
